@@ -34,22 +34,6 @@ header {
 }
 
 
-/* NAV DESKTOP */
-
-nav {
-    display: flex;
-    gap: 20px;
-}
-
-nav a {
-    color: white;
-    text-decoration: none;
-    transition: 0.3s;
-}
-
-nav a:hover {
-    color: #ff6600;
-}
 
 /* BOTÃO HAMBÚRGUER */
 
